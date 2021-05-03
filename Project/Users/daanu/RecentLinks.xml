@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\daanu\Desktop\Studia\31.01.2021\Flare\Soledad\Content\Resources\Images\Assets\community\web.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\daanu\Desktop\Studia\31.01.2021\Flare\Soledad\Content\B_Explore Topics\Origins of Techwriter.pl.htm" />
+    </Dialog>
+</RecentLinks>

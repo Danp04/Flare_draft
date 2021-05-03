@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.vistula.edu.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="https://dredar.com/" />
+    <Link
+      Url="https://www.madcapsoftware.com/" />
+    <Link
+      Url="https://www.atlassian.com/" />
+    <Link
+      Url="https://itcqf.org/" />
+    <Link
+      Url="https://www.techsmith.com/" />
+    <Link
+      Url="https://www.sync.ro/" />
+    <Link
+      Url="https://www.memoq.com/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.vistula.edu.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="https://dredar.com/" />
+    <Link
+      Url="https://www.madcapsoftware.com/" />
+    <Link
+      Url="https://www.atlassian.com/" />
+    <Link
+      Url="https://itcqf.org/" />
+    <Link
+      Url="https://www.techsmith.com/" />
+    <Link
+      Url="https://www.sync.ro/" />
+    <Link
+      Url="https://www.memoq.com/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
