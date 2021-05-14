@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-page"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/daanu/Desktop/Studia/31.01.2021/Flare_draft/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Resources/Images/Assets/HeroStockImages/Image-4.jpg" />
+    <Link
+      Url="Content/Resources/Images/Assets/PlaceholderLogo/log.png" />
+    <Link
+      Url="Content/E_Widgets Topics/Getting Started.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+    <Link
+      Url="Content/E_Widgets Topics/Explore Poland.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community building.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+    <Link
+      Url="Content/E_Widgets Topics/FAQ.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Resources/Images/Assets/HeroStockImages/Image-4.jpg" />
+    <Link
+      Url="Content/Resources/Images/Assets/PlaceholderLogo/log.png" />
+    <Link
+      Url="Content/E_Widgets Topics/Getting Started.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+    <Link
+      Url="Content/E_Widgets Topics/Explore Poland.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community building.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+    <Link
+      Url="Content/E_Widgets Topics/FAQ.htm" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+    <Link
+      Url="https://www.youtube.com/watch?v=QTdlv6KQiEo&amp;t=375s&amp;ab_channel=WriteTheDocsPodcast%26Meetups" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
