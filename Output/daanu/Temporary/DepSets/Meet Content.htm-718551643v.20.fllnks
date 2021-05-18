@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Assets/community/Gdansk.jpg" />
+    <Link
+      Url="http://meetcontent.org/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/kraków/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/wroclaw/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/gdansk/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/Meetcontent-whitebackg.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Online journey.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Assets/community/Gdansk.jpg" />
+    <Link
+      Url="http://meetcontent.org/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/kraków/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/wroclaw/" />
+    <Link
+      Url="https://www.meetup.com/pl-PL/cities/pl/gdansk/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/Meetcontent-whitebackg.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Online journey.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

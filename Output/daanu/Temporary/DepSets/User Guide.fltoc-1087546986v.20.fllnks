@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/PDF_Home.htm" />
+    <Link
+      Url="Content/Page_layout/Front_PDF.flpgl" />
+    <Link
+      Url="Content/Table of contents.htm" />
+    <Link
+      Url="Content/E_Widgets Topics/Explore Poland.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Origins of Techwriter.pl.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Content events.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Soap.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Meet Content.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Online journey.htm" />
+    <Link
+      Url="Content/A_Introduction Topics/Tech comm training.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Technical Communication postgraduate studies.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Go global with ITCQF.htm" />
+    <Link
+      Url="Content/B_Explore Topics/E-learning platforms.htm" />
+    <Link
+      Url="Content/A_Introduction Topics/Job market.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Degree or not degree.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Salary.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Job offers.htm" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community building.htm" />
+    <Link
+      Url="Content/C_Roadmap Topics/Start.htm" />
+    <Link
+      Url="Content/C_Roadmap Topics/Manage.htm" />
+    <Link
+      Url="Content/C_Roadmap Topics/Engage.htm" />
+    <Link
+      Url="Content/E_Widgets Topics/FAQ.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.PDF" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

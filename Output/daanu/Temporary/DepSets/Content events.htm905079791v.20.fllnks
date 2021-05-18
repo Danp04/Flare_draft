@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Assets/community/calendar.jpg" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/B_Explore Topics/Soap.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Meet Content.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Assets/community/calendar.jpg" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/B_Explore Topics/Soap.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Meet Content.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Source" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

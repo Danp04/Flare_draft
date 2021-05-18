@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.vistula.edu.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techwriterpl.jpg" />
+    <Link
+      Url="https://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/madcap.png" />
+    <Link
+      Url="https://www.atlassian.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/atlassian.jpg" />
+    <Link
+      Url="https://itcqf.org/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/itcqf-whiteback.png" />
+    <Link
+      Url="https://www.techsmith.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techsmith.png" />
+    <Link
+      Url="https://www.sync.ro/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/oxygen-whiteback.png" />
+    <Link
+      Url="https://www.memoq.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/memoq.png" />
+    <Link
+      Url="https://dredar.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/dredar-whiteback.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/vistula-whiteback.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Tech comm training.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Go global with ITCQF.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.vistula.edu.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techwriterpl.jpg" />
+    <Link
+      Url="https://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/madcap.png" />
+    <Link
+      Url="https://www.atlassian.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/atlassian.jpg" />
+    <Link
+      Url="https://itcqf.org/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/itcqf-whiteback.png" />
+    <Link
+      Url="https://www.techsmith.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techsmith.png" />
+    <Link
+      Url="https://www.sync.ro/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/oxygen-whiteback.png" />
+    <Link
+      Url="https://www.memoq.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/memoq.png" />
+    <Link
+      Url="https://dredar.com/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/dredar-whiteback.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/vistula-whiteback.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Tech comm training.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Go global with ITCQF.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
