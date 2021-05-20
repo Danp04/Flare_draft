@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/daanu/Desktop/Studia/31.01.2021/Flare/Soledad/Output/daanu/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="Home.htm" />
+    <Url
+      Source="PDF_Home.htm" />
+    <Url
+      Source="Table of contents.htm" />
+    <Url
+      Source="A_Introduction Topics/Job market.htm" />
+    <Url
+      Source="A_Introduction Topics/Tech comm training.htm" />
+    <Url
+      Source="A_Introduction Topics/Techwriting community building.htm" />
+    <Url
+      Source="A_Introduction Topics/Techwriting community.htm" />
+    <Url
+      Source="B_Explore Topics/Content events.htm" />
+    <Url
+      Source="B_Explore Topics/Degree or not degree.htm" />
+    <Url
+      Source="B_Explore Topics/E-learning platforms.htm" />
+    <Url
+      Source="B_Explore Topics/Go global with ITCQF.htm" />
+    <Url
+      Source="B_Explore Topics/Job offers.htm" />
+    <Url
+      Source="B_Explore Topics/Meet Content.htm" />
+    <Url
+      Source="B_Explore Topics/Online journey.htm" />
+    <Url
+      Source="B_Explore Topics/Origins of Techwriter.pl.htm" />
+    <Url
+      Source="B_Explore Topics/Salary.htm" />
+    <Url
+      Source="B_Explore Topics/Soap.htm" />
+    <Url
+      Source="B_Explore Topics/Technical Communication postgraduate studies.htm" />
+    <Url
+      Source="C_Roadmap Topics/Engage.htm" />
+    <Url
+      Source="C_Roadmap Topics/Manage.htm" />
+    <Url
+      Source="C_Roadmap Topics/Start.htm" />
+    <Url
+      Source="E_Widgets Topics/Explore Poland.htm" />
+    <Url
+      Source="E_Widgets Topics/FAQ.htm" />
+    <Url
+      Source="E_Widgets Topics/Getting Started.htm" />
+    <Url
+      Source="Page_layout/Front_PDF.flpgl" />
+    <Url
+      Source="Resources/Images/Assets/community/build.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/calendar.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/FAQ.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/floor0.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/floor1.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/floor2.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/floor3.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/Following the example of Poland.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/Gdansk.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/getstarted.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/header_unsplash_2-970x.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/header_unsplash_2.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/itcqf.png" />
+    <Url
+      Source="Resources/Images/Assets/community/job.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/linkedin.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/method-draw-image.svg" />
+    <Url
+      Source="Resources/Images/Assets/community/mur.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/pracujpl.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/shutterstock_525232330.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/shutterstock_597864935.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/soap.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/socialmedia.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/social_blackwhite.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/stages.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/title.png" />
+    <Url
+      Source="Resources/Images/Assets/community/train.jpg" />
+    <Url
+      Source="Resources/Images/Assets/community/web.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/atlassian.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/dredar-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/dredar.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/itcqf-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/itcqf.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/madcap.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/Meetcontent-whitebackg.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/Meetcontent.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/memoq.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/oxygen-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/oxygen.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/soap-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/soap.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/techsmith.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/techwriterpl-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/techwriterpl.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/tw-codes.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/vistula-whiteback.png" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/vistula.jpg" />
+    <Url
+      Source="Resources/Images/Assets/company'slogo/wtd.jpg" />
+    <Url
+      Source="Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" />
+    <Url
+      Source="Resources/Images/Assets/HeroStockImages/HeroImage-2.jpg" />
+    <Url
+      Source="Resources/Images/Assets/HeroStockImages/HeroImage-3.jpg" />
+    <Url
+      Source="Resources/Images/Assets/HeroStockImages/Image-4.jpg" />
+    <Url
+      Source="Resources/Images/Assets/HeroStockImages/Image-5.jpg" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Clients-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Clients-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Clients-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Contact-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Contact-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/FAQs-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/FAQs-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Hello-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Hello-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Hello-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/home (2).jpg" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/home-1.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/home.jpg" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/home_2.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Notes-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Notes-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Notes-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/PDF.jpg" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/PDFs-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/PDFs-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Search-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Search-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Search-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Services-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Services-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Tips-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Tips-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/Tips-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/11x11.psd" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/30x30.psd" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/48x48.psd" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/50x50.psd" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/75x96.psd" />
+    <Url
+      Source="Resources/Images/Assets/Icons/PSD_AI/IconSystem.ai" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/FB-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/FB-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/FB-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/fcb-dok.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Insta-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/LI-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/LI-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/madcap-flare.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/log.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/logo-2 (2).png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/logo-2.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/logo.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-black.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+    <Url
+      Source="Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo.ai" />
+    <Url
+      Source="Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="Resources/Snippets/Passionates.flsnp" />
+    <Url
+      Source="Resources/Snippets/Techwriter.pl.flsnp" />
+    <Url
+      Source="Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="Resources/Stylesheets/StylesForHomePage.css" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

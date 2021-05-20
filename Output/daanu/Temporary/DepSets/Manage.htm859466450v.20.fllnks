@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Assets/community/floor2.jpg" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://git-scm.com/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="Content/Resources/Images/Assets/community/stages.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/C_Roadmap Topics/Engage.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Assets/community/floor2.jpg" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://git-scm.com/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="Content/Resources/Images/Assets/community/stages.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/C_Roadmap Topics/Engage.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Source" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

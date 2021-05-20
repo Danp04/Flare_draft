@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="http://testerzy.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techwriterpl-whiteback.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Content events.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://testerzy.pl/" />
+    <Link
+      Url="http://techwriter.pl/" />
+    <Link
+      Url="https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/" />
+    <Link
+      Url="Content/Resources/Images/Assets/company'slogo/techwriterpl-whiteback.png" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/A_Introduction Topics/Techwriting community.htm" />
+    <Link
+      Url="Content/B_Explore Topics/Content events.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
